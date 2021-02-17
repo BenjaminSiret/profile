@@ -1,7 +1,7 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400;600&display=swap');
 
-@media (max-width: 1440px) {
+@media (max-width: 1920px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
     width: 900px;
